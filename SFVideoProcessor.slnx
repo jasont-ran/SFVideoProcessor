@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SFVideoProcessor/SFVideoProcessor.vcxproj" Id="e4b83832-17a1-46d7-a75e-a9fb1c58f292" />
+</Solution>
