@@ -144,7 +144,8 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="SFVideoProcessor.cpp" />
+    <ClCompile Include="source\SFImageProcessor.cpp" />
+    <ClCompile Include="source\SFVideoProcessor.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
